@@ -1,0 +1,4 @@
+.places__list {
+  display: grid;
+  grid-row-gap: 80px;
+}
