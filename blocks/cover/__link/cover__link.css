@@ -6,5 +6,11 @@
   align-items: center;
   width: 100%;
   min-height: 100%;
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgba(42, 44, 47, 0.3);
+  transition: background-color .2s linear;
+  color: #fff;
+}
+
+.cover__link:hover {
+  background-color: rgba(42, 44, 47, 0.8);
 }

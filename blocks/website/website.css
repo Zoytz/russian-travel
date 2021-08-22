@@ -5,3 +5,12 @@
   align-items: left;
   max-width: 456px;
 }
+
+@media screen and (max-width: 320px) {
+  .website {
+    align-items: left;
+    min-width: 288px;
+    margin: 0 auto;
+  }
+  
+}
