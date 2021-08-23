@@ -7,19 +7,19 @@
   font-family: Inter;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1279px) {
   .place {
     grid-column-gap: 32px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .place {
     grid-column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .place {
     grid-template-columns: 1fr;
     grid-row-gap: 32px;

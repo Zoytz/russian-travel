@@ -4,22 +4,20 @@
   font-family: Inter;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1278px) {
   .cover {
-    max-width: 1024px;
+    max-width: 100vw;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .cover {
     padding-top: 90px;
-    max-width: 768px;
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cover {
     padding-top: 66px;
-    max-width: 320px;
   }
 }
