@@ -30,6 +30,6 @@ display: grid;
 *  **И многое другое...**
 
 
-## Где посмотреть на это чудо?
+## Ссылка на проектную работу:
 
-Тута - [GitHub Pages](https://pages.github.com/).
+[GitHub Pages](https://pages.github.com/)
