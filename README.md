@@ -32,4 +32,4 @@ display: grid;
 
 ## Ссылка на проектную работу:
 
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](https://zoytz.github.io/russian-travel/)

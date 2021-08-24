@@ -4,7 +4,7 @@
   grid-row-gap: 48px;
   grid-column-gap: 40px;
   width: 100%;
-  font-family: Inter;
+  font-family: Inter, sans-serif;
 }
 
 @media screen and (max-width: 1279px) {

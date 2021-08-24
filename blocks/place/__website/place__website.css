@@ -1,4 +1,4 @@
-.website {
+.place__website {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 767px) {
-  .website {
+  .place__website {
     align-items: left;
     min-width: calc(100vw - (16px + 16px));
     margin: 0 auto;
