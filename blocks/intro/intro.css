@@ -1,9 +1,8 @@
 .intro {
   max-width: 984px;
-  padding-top: 92px;
+  padding-top: 80px;
   display: flex;
   flex-direction: column;
-  justify-content: left;
   font-family: Inter, sans-serif;
 }
 

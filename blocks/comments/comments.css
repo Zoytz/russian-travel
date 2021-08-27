@@ -1,0 +1,30 @@
+.comments {
+  padding-top: 102px;
+  text-align: center;
+  max-width: 1184px;
+}
+
+@media screen and (max-width: 1279px) {
+  .comments {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .comments {
+    max-width: 660px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .comments {
+    padding-top: 64px;
+    max-width: 343px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  .comments {
+    max-width: 288px;
+  }
+}

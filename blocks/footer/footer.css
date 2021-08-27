@@ -1,9 +1,10 @@
 .footer {
   max-width: 1184px;
-  padding-top: 92px;
-  padding-bottom: 24px;
+  padding-top: 160px;
+  padding-bottom: 48px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   font-family: Inter, sans-serif;
 }
 
@@ -15,8 +16,9 @@
 
 @media screen and (max-width: 1023px) {
   .footer {
-    padding-top: 88px;
+    padding-top: 102px;
     max-width: calc(100vw - (24px + 24px));
+    padding-bottom: 24px;
   }
 }
 

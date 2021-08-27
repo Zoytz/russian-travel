@@ -1,0 +1,33 @@
+.video__item {
+  width: 560px;
+  height: 315px;
+  border: none;
+}
+
+@media screen and (max-width: 1279px) {
+  .video__item {
+    width: 456px;
+    height: 288px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .video__item {
+    width: 352px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .video__item {
+    width: 343px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  .video__item {
+    width: 288px;
+    height: 172px;
+  }
+}
+

@@ -1,6 +1,6 @@
 .places__list {
   display: grid;
-  grid-row-gap: 80px;
+  grid-row-gap: 72px;
 }
 
 @media screen and (max-width: 1023px) {

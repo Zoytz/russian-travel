@@ -1,5 +1,5 @@
 .cover {
-  padding-top: 92px;
+  padding-top: 102px;
   max-width: 1184px;
   font-family: Inter, sans-serif;
 }
@@ -18,6 +18,12 @@
 
 @media screen and (max-width: 767px) {
   .cover {
-    padding-top: 66px;
+    padding-top: 48px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  .cover {
+    padding-top: 64px;
   }
 }
